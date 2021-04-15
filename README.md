@@ -1,4 +1,4 @@
-# LearningKubernetes
+# Learning Kubernetes ![Kubernetes](https://tl.vhv.rs/dpng/s/484-4842971_kubernetes-logo-png-kubernetes-logo-vector-transparent-png.png)
 Kubernetes Resources
 
 ## Courses:
